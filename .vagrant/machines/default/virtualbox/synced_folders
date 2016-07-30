@@ -1,0 +1,1 @@
+{"virtualbox":{"/home/vagrant/symfony-demo":{"type":null,"mount_options":[],"guestpath":"/home/vagrant/symfony-demo","hostpath":"/Users/laura/proyectos/symfony-demo","disabled":false,"__vagrantfile":true},"/vagrant":{"guestpath":"/vagrant","hostpath":"/Users/laura/proyectos/symfony-demo","disabled":false,"__vagrantfile":true}}}
